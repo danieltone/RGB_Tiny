@@ -1,0 +1,18 @@
+# Build artifacts
+build/
+bin/
+
+# Arduino build files
+*.elf
+*.hex
+
+# Editor files
+.vscode/
+.DS_Store
+*.swp
+*.swo
+*~
+
+# OS files
+Thumbs.db
+.directory
